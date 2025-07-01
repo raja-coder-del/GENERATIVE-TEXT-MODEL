@@ -71,3 +71,6 @@ Data Augmentation: Creating synthetic text data for training other AI models, es
 
 These models, often referred to as Large Language Models (LLMs), have revolutionized how we interact with and create textual content, pushing the boundaries of AI's creative potential.
 
+## output##
+------------------------------------------------------------------------------
+![Image](https://github.com/user-attachments/assets/d5cae746-af6a-4b24-a394-d585102fa454)
