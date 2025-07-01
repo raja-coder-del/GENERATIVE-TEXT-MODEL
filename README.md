@@ -74,3 +74,7 @@ These models, often referred to as Large Language Models (LLMs), have revolution
 ## output##
 ------------------------------------------------------------------------------
 ![Image](https://github.com/user-attachments/assets/d5cae746-af6a-4b24-a394-d585102fa454)
+
+================================================================================================
+                                                                                                   For any quries and issues contact me:
+                                                                                                   tekiraja143@gmail.com
